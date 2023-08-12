@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working on **Data Science Projects, progressing myself day-by-day. Intreseted to work on AI, ML, DL, Data Science.**
 
-- 🌱 I'm on track for learning more about Artificial Intelligence and Machine Learining.
+- 🌱 I'm on track for learning more about Machine Learining and Artificial Intelligence.
 
 - ✉️ You can shoot me an email at **prakashviswa1990@gmail.com** I'll try to respond as soon as I can.
 
