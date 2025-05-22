@@ -70,7 +70,7 @@
 
 <p align="center">
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=tokyonight&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show=reviews&show_icons=true&theme=tokyonight&count_private=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswa-Prakash&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
@@ -81,7 +81,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Viswa-Prakash&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" alt="Contribution Calendar" />
 </p>
 
-![Viswa Prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ---
 
 ## 🌐 Let's Connect
