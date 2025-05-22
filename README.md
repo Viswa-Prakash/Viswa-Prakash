@@ -56,13 +56,24 @@
 
 ## 📈 GitHub Stats & Contributions
 
+## 📈 GitHub Stats & Contributions
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=tokyonight" height="200"/>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswa-Prakash&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
 <p align="center" style="font-size:1.2rem; margin-top: 10px;">
+  <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Viswa-Prakash&style=flat-square&color=00BFFF" alt="Profile views" />  
 </p>
+
+<p align="center" style="margin-top: 15px;">
+  <!-- Contribution Calendar -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Viswa-Prakash&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" alt="Contribution Calendar" />
+</p>
+
 
 ---
 
