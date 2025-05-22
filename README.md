@@ -53,10 +53,18 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS S3-%23FF9900?style=plastic&logo=amazon-aws&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS EC2-%23232F3E?style=plastic&logo=amazon-aws&logoColor=white)
-![AWS ECR](https://img.shields.io/badge/AWS ECR-%23FF9900?style=plastic&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=plastic&logo=docker&logoColor=white)
+### ⚙️ MLOps & Cloud Tools
+
+<p>
+  <img src="https://img.shields.io/badge/DVC-004C99?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+  <img src="https://img.shields.io/badge/MLflow-0C5EAF?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
+</p>
+
 
 ---
 
