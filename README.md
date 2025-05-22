@@ -58,11 +58,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=tokyonight" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswa-Prakash&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Viswa-Prakash&theme=tokyonight&hide_border=false" height="200"/>
+<p align="center" style="font-size:1.2rem; margin-top: 10px;">
+  <img src="https://komarev.com/ghpvc/?username=Viswa-Prakash&style=flat-square&color=00BFFF" alt="Profile views" />  
 </p>
 
 ---
