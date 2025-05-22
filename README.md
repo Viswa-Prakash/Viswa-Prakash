@@ -12,7 +12,7 @@
 ## 👨‍💼 About Me
 
 🎯 **Mission-Driven Data Scientist** with a passion for solving real-world problems using **AI, NLP, and MLOps**.  
-🔍 Specializing in **Generative AI**, **LLMs**, and **end-to-end ML pipelines**.  
+🔍 Specializing in **ML**, **DL**, **Generative AI**, **LLMs**, and **end-to-end pipelines**.  
 💼 1+ years of experience transforming complex data into powerful insights.  
 🧠 Forever curious and continuously learning cutting-edge tools and models.  
 📬 Connect: **prakashviswa1990@gmail.com** | [LinkedIn](https://www.linkedin.com/in/viswa-prakash/)  
@@ -51,6 +51,12 @@
 ![DVC](https://img.shields.io/badge/DVC-004C99?style=for-the-badge&logo=dvc)
 ![MLflow](https://img.shields.io/badge/MLflow-0C5EAF?style=for-the-badge&logo=mlflow)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS S3-%23FF9900?style=plastic&logo=amazon-aws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS EC2-%23232F3E?style=plastic&logo=amazon-aws&logoColor=white)
+![AWS ECR](https://img.shields.io/badge/AWS ECR-%23FF9900?style=plastic&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=plastic&logo=docker&logoColor=white)
 
 ---
 
