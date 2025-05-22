@@ -78,7 +78,7 @@
 
 <p align="center" style="margin-top: 15px;">
   <!-- Contribution Calendar -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Viswa-Prakash&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j" alt="Contribution Calendar" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 </p>
 
 ---
