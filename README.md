@@ -47,12 +47,6 @@
 ![Hugging Face](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface)
 ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
 
-### ⚙️ MLOps
-![DVC](https://img.shields.io/badge/DVC-004C99?style=for-the-badge&logo=dvc)
-![MLflow](https://img.shields.io/badge/MLflow-0C5EAF?style=for-the-badge&logo=mlflow)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### ☁️ Cloud & DevOps
 ### ⚙️ MLOps & Cloud Tools
 
 <p>
@@ -70,17 +64,16 @@
 
 ## 📈 GitHub Stats & Contributions
 
-## 📈 GitHub Stats & Contributions
+<p align="Left" style="font-size:1.2rem; margin-top: 10px;">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Viswa-Prakash&style=flat-square&color=00BFFF" alt="Profile views" />  
 
 <p align="center">
   <!-- Main GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=tokyonight&count_private=true" height="200" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswa-Prakash&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
-<p align="center" style="font-size:1.2rem; margin-top: 10px;">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=Viswa-Prakash&style=flat-square&color=00BFFF" alt="Profile views" />  
 </p>
 
 <p align="center" style="margin-top: 15px;">
