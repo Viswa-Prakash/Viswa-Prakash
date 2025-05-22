@@ -66,15 +66,15 @@
 ## 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viswa-prakash&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viswa-prakash&show_icons=true&locale=en&layout=compact&cache_seconds=1800&v=1" alt="Top Languages"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viswa-prakash&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viswa-prakash&show_icons=true&locale=en&cache_seconds=1800&v=1" alt="GitHub Stats"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viswa-prakash&" alt="GitHub Streak"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viswa-prakash&theme=default&cache_seconds=1800&v=1" alt="GitHub Streak"/>
 </p>
 
 ---
