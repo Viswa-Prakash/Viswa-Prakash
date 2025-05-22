@@ -1,5 +1,9 @@
 <!-- Viswa Prakash GitHub Profile README -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI-coding-gif" width="100%" height="300"/>
+</p>
+
 <h1 align="center">🚀 Welcome to My GitHub Universe!</h1>
 <h3 align="center">Hi, I'm <span style="color:#00BFFF">Viswa Prakash</span> — Data Scientist | AI & MLOps Engineer | Generative AI Explorer</h3>
 
