@@ -1,85 +1,76 @@
-<h1 align="center">Hi there 👋, I'm Viswa Prakash</h1>
-<h3 align="center">Aspiring Data Scientist | 1 Year Experience in AI, NLP & MLOps</h3>
+<!-- Viswa Prakash GitHub Profile README -->
+
+<h1 align="center">🚀 Welcome to My GitHub Universe!</h1>
+<h3 align="center">Hi, I'm <span style="color:#00BFFF">Viswa Prakash</span> — Data Scientist | AI & MLOps Engineer | Generative AI Explorer</h3>
 
 <p align="center">
-  <img src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif" alt="coding-gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI-coding-gif" width="500"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💼 About Me
 
-- 🧠 I’m a Data Science enthusiast with **1 year of hands-on experience** in Machine Learning, NLP, and MLOps.
-- 🤖 Currently exploring **Generative AI**, deep learning, and end-to-end ML pipeline automation.
-- 📊 Passionate about transforming raw data into impactful insights and real-world applications.
-- 📚 Continuously learning and building projects in **AI/ML, NLP, and Gen AI**.
-- 📫 Reach me at: **prakashviswa1990@gmail.com**
-- 💼 Portfolio & Projects: [GitHub/Viswa-Prakash](https://github.com/Viswa-Prakash)
+🎯 **Mission-Driven Data Scientist** with a passion for solving real-world problems using **AI, NLP, and MLOps**.  
+🔍 Specializing in **Generative AI**, **LLMs**, and **end-to-end ML pipelines**.  
+💼 1+ years of experience transforming complex data into powerful insights.  
+🧠 Forever curious and continuously learning cutting-edge tools and models.  
+📬 Connect: **prakashviswa1990@gmail.com** | [LinkedIn](https://www.linkedin.com/in/viswa-prakash/)  
 
 ---
 
-## 🚀 Tech Stack
+## ⚒️ Tech Stack
 
-### 🧮 Core Skills (Mathematics)
-<p>
-  <img src="https://img.shields.io/badge/Statistics-%232370ED?style=plastic&logo=statistics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linear Algebra-%23F7DF1E?style=plastic&logo=linearalgebra&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Probability-%23007396?style=plastic&logo=probability&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Calculus-%2314354C?style=plastic&logo=calculus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discrete Maths-%2300599C?style=plastic&logo=discretemath&logoColor=white"/>
-</p>
+### 📊 Core Mathematics
+![Statistics](https://img.shields.io/badge/Statistics-blue?style=for-the-badge)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-yellow?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-cyan?style=for-the-badge)
+![Calculus](https://img.shields.io/badge/Calculus-green?style=for-the-badge)
+![Discrete Math](https://img.shields.io/badge/Discrete%20Math-orange?style=for-the-badge)
 
 ### 🧑‍💻 Programming & Databases
-<p>
-  <img src="https://img.shields.io/badge/Python-%232370ED?style=plastic&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300599C?style=plastic&logo=sql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📚 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E6E9E?style=for-the-badge)
+
+### 🤖 Deep Learning & Generative AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge&logo=huggingface)
+![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+
+### ⚙️ MLOps
+![DVC](https://img.shields.io/badge/DVC-004C99?style=for-the-badge&logo=dvc)
+![MLflow](https://img.shields.io/badge/MLflow-0C5EAF?style=for-the-badge&logo=mlflow)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswa-Prakash&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
-### 🔧 Libraries & Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Pandas-%23150458?style=plastic&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-%23013243?style=plastic&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit Learn-%23F7931E?style=plastic&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23007396?style=plastic&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-%2314354C?style=plastic&logo=seaborn&logoColor=white"/>
-</p>
-
-### 🤖 Deep Learning | NLP | GenAI
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-%23D00000?style=plastic&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=plastic&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers(HuggingFace)-%23FFD21F?style=plastic&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LLMs-%230A66C2?style=plastic&logo=openai&logoColor=white"/>
-</p>
-
-### ⚙️ MLOps Tools
-<p>
-  <img src="https://img.shields.io/badge/DVC-%23004C99?style=plastic&logo=dvc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MLflow-%230C5EAF?style=plastic&logo=mlflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-%23281717?style=plastic&logo=githubactions&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Viswa-Prakash&theme=tokyonight&hide_border=false" height="200"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viswa-Prakash&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viswa-Prakash&layout=compact&theme=radical" alt="Top Languages" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Viswa-Prakash&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="200"/>
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="mailto:prakashviswa1990@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/Viswa-Prakash"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/viswa-prakash/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prakashviswa1990@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Viswa-Prakash"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/viswa-prakash/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
