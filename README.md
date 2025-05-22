@@ -78,7 +78,7 @@
 
 <p align="center" style="margin-top: 15px;">
   <!-- Contribution Calendar -->
-  <img src="https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)]" />
+  <img src="https://streak-stats.demolab.com/?user=Viswa-Prakash&theme=dark" />
 </p>
 
 ---
