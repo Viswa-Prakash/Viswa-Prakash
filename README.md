@@ -1,7 +1,7 @@
 <!-- Viswa Prakash GitHub Profile README -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI-coding-gif" width="100%" height="300"/>
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" alt="Data Science Banner" width="100%" height="300"/>
 </p>
 
 <h1 align="center">🚀 Welcome to My GitHub Universe!</h1>
