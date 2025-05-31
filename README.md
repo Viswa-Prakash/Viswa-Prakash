@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">🚀 Welcome to My GitHub Universe!</h1>
-<h3 align="center">Hi, I'm <span style="color:#00BFFF">Viswa Prakash</span> — Data Scientist | AI & MLOps Engineer | Generative AI Explorer</h3>
+<h3 align="center">Hi, I'm <span style="color:#00BFFF">Viswa Prakash</span> — Data Science | AI & MLOps | Generative AI Explorer</h3>
 
 ---
 
